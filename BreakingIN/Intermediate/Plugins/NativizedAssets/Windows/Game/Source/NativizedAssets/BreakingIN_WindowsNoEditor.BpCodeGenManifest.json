@@ -1,0 +1,81 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'"
+	],
+	"convertedAssets":
+	{
+		"/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraCoordinateSpace__pf2855420827.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraCoordinateSpace__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraOrientationAxis.ENiagaraOrientationAxis":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraOrientationAxis.ENiagaraOrientationAxis",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraOrientationAxis__pf2855420827.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraOrientationAxis__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraBooleanLogicOps.ENiagaraBooleanLogicOps":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraBooleanLogicOps.ENiagaraBooleanLogicOps",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraBooleanLogicOps__pf2855420827.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraBooleanLogicOps__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraRandomnessMode__pf2855420827.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraRandomnessMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraExpansionMode__pf2855420827.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraExpansionMode__pf2855420827.cpp"
+		},
+		"/Game/TSS_Game/Blueprints/Weapons/Base/E_WeaponAnimCategory.E_WeaponAnimCategory":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/TSS_Game/Blueprints/Weapons/Base/E_WeaponAnimCategory.E_WeaponAnimCategory",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/E_WeaponAnimCategory__pf346906964.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/E_WeaponAnimCategory__pf346906964.cpp"
+		},
+		"/Game/TSS_Game/Blueprints/System/E_Controls.E_Controls":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/TSS_Game/Blueprints/System/E_Controls.E_Controls",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/E_Controls__pf2806154781.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/E_Controls__pf2806154781.cpp"
+		},
+		"/Game/TSS_Game/Blueprints/Objective_System/System/S_ObjectiveData.S_ObjectiveData":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/TSS_Game/Blueprints/Objective_System/System/S_ObjectiveData.S_ObjectiveData",
+			"generatedHeaderPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/S_ObjectiveData__pf272261436.h",
+			"generatedCppPath": "E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/S_ObjectiveData__pf272261436.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}

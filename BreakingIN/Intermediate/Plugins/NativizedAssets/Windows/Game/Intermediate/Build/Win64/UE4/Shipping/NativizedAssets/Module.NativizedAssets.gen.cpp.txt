@@ -1,0 +1,49 @@
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Shipping\NativizedAssets\Definitions.NativizedAssets.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/E_Controls__pf2806154781.gen.cpp
+E:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/E_Controls__pf2806154781.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\E_Controls__pf2806154781.generated.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/E_WeaponAnimCategory__pf346906964.gen.cpp
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/E_WeaponAnimCategory__pf346906964.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\E_WeaponAnimCategory__pf346906964.generated.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraBooleanLogicOps__pf2855420827.gen.cpp
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraBooleanLogicOps__pf2855420827.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\ENiagaraBooleanLogicOps__pf2855420827.generated.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraCoordinateSpace__pf2855420827.gen.cpp
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraCoordinateSpace__pf2855420827.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\ENiagaraCoordinateSpace__pf2855420827.generated.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraExpansionMode__pf2855420827.gen.cpp
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraExpansionMode__pf2855420827.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\ENiagaraExpansionMode__pf2855420827.generated.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraOrientationAxis__pf2855420827.gen.cpp
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraOrientationAxis__pf2855420827.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\ENiagaraOrientationAxis__pf2855420827.generated.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraRandomnessMode__pf2855420827.gen.cpp
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraRandomnessMode__pf2855420827.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\ENiagaraRandomnessMode__pf2855420827.generated.h
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/NativizedAssets.init.gen.cpp
+E:/New version/BreakingIN/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/S_ObjectiveData__pf272261436.gen.cpp
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/S_ObjectiveData__pf272261436.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Public\GeneratedCodeHelpers.h
+E:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+E:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\UserDefinedStruct.generated.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetArrayLibrary.h
+E:\UE_4.25\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+E:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\KismetArrayLibrary.generated.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+E:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CollisionProfile.generated.h
+E:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\KismetSystemLibrary.generated.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+E:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\KismetMathLibrary.generated.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/DataTableFunctionLibrary.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+E:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTable.generated.h
+E:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTableFunctionLibrary.generated.h
+E:\UE_4.25\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+E:\New version\BreakingIN\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Inc\NativizedAssets\S_ObjectiveData__pf272261436.generated.h
